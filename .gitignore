@@ -1,0 +1,15 @@
+# R
+.Rhistory
+
+# Session data
+.RData
+
+# RStudio
+.Rproj.user
+
+# Other files
+.directory
+Old_Outputs
+DataTime
+*.pdf
+
